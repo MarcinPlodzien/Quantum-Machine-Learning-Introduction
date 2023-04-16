@@ -1,8 +1,7 @@
 # Introduction to Hybrid Quantum-Classical Machine Learning methods in Quantum Computing
 
 This repository contains lectures I gave during the
-"VI Pyrenees Winter School Quantum Information Meeting for Barcelona's Community" 
-on 14-17.02.2023
+"VI Pyrenees Winter School Quantum Information Meeting for Barcelona's Community" (Setcases, Spain, 14-17.02.2023).
 
 Outline:
 1. Introduction to Automatic Differentiation
