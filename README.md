@@ -9,3 +9,8 @@ Outline:
 2. Implementing quantum gates from scratch: Simulating circuits and qubit gates
 3. Example: Variational Quantum Eigensolver (VQE) implementation from scratch with PyTorch
 4. Example: Quantum Approximate Optimization Algorithm (QAOA) implementation from scratch with PyTorch
+
+
+For details see
+"Modern applications of machine learning in quantum sciences"
+https://arxiv.org/abs/2204.04198
