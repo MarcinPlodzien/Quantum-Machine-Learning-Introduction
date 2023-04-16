@@ -1,3 +1,11 @@
-# Quantum-Machine-Learning-Introduction
-Repository contains lectures given during "VI Pyrenees Winter School Quantum Information Meeting for Barcelona's Community" on 14-17.02.2023
-https://setcases6.wordpress.com/
+# Introduction to Hybrid Quantum-Classical Machine Learning methods in Quantum Computing
+
+This repository contains lectures I gave during the "VI Pyrenees Winter School Quantum Information Meeting for Barcelona's Community" 
+on 14-17.02.2023 (https://setcases6.wordpress.com/)
+
+
+Outline:
+1. Introduction to Automatic Differentiation
+2. Implementing quantum gates from scratch: Simulating circuits and qubit gates
+3. Example: Variational Quantum Eigensolver (VQE) implementation from scratch with PyTorch
+4. Example: Quantum Approximate Optimization Algorithm (QAOA) implementation from scratch with PyTorch
