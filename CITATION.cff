@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Płodzień"
+  given-names: "Marcin"
+  orcid: "https://orcid.org/0000-0002-0835-1644"
+title: "Quantum-Machine-Learning-Introduction"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-04-16
+url: "https://github.com/MarcinPlodzien/Quantum-Machine-Learning-Introduction"
