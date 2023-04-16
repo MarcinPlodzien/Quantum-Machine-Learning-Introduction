@@ -10,5 +10,6 @@ Outline:
 4. Example: Quantum Approximate Optimization Algorithm (QAOA) implementation from scratch with PyTorch
 
 
-For comprehensive introduction to machine learning for quantum technologies see:
-"Modern applications of machine learning in quantum sciences" https://arxiv.org/abs/2204.04198
+For a comprehensive introduction to machine learning for quantum technologies, see: 
+"Modern applications of machine learning in quantum sciences"
+https://arxiv.org/abs/2204.04198
